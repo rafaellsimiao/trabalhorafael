@@ -1,0 +1,49 @@
+
+.cartão{
+    margin-top: 100px;
+    padding: 30px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.logo {
+    width: 300px;
+    margin-bottom: 15px;
+    border-radius: 40px;
+}
+.legenda{
+    color: #ff0000;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.2em;
+}
+.titulo{
+    color: #000000;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2em;
+    box-shadow: 0 4px 10px black;
+    border-radius: 40px;
+}
+.rs{
+    color: #b93636;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    box-shadow: 0 4px 10px black;
+    border-radius: 5px;
+}
+.store{
+    width: 200px;
+    margin: 30px auto 0;
+    display: block;
+    box-shadow: 0 4px 10px black;
+    border-radius: 70px;
+}
+.google{
+    width: 200px;
+    margin: 30px auto 0;
+    display: block;
+    box-shadow: 0 4px 10px black;
+    border-radius: 70px;
+}
